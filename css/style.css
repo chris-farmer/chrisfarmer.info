@@ -217,14 +217,16 @@ section.contact a {
     FONT-WEIGHT: BOLD;
     TEXT-DECORATION: NONE;
     PADDING: 12PX;
+    margin:16px;
 }
 
 section.contact a:hover {
-    background-color: #030303;
+    background-color: #080308;
     COLOR: WHITE;
     FONT-WEIGHT: BOLD;
     TEXT-DECORATION: NONE;
     PADDING: 12PX;
 }
+
 
 
