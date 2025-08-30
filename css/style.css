@@ -221,12 +221,13 @@ section.contact a {
 }
 
 section.contact a:hover {
-    background-color: #080308;
+    background-color: #888388;
     COLOR: WHITE;
     FONT-WEIGHT: BOLD;
     TEXT-DECORATION: NONE;
     PADDING: 12PX;
 }
+
 
 
 
