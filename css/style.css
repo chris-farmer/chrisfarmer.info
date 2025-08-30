@@ -210,3 +210,11 @@ section.links ul {
 .shopping {
     background-color:#121212;
 }
+
+a.contact {
+    background-color: BLACK;
+    COLOR: WHITE;
+    FONT-WEIGHT: BOLD;
+    TEXT-DECORATION: NONE;
+    PADDING: 12PX;
+}
