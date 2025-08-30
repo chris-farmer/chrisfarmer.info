@@ -211,10 +211,20 @@ section.links ul {
     background-color:#121212;
 }
 
-a.contact {
+section.contact a {
     background-color: BLACK;
     COLOR: WHITE;
     FONT-WEIGHT: BOLD;
     TEXT-DECORATION: NONE;
     PADDING: 12PX;
 }
+
+section.contact a:hover {
+    background-color: #030303;
+    COLOR: WHITE;
+    FONT-WEIGHT: BOLD;
+    TEXT-DECORATION: NONE;
+    PADDING: 12PX;
+}
+
+
